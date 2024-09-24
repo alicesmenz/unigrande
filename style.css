@@ -1,0 +1,15 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background: hsl(280, 14%, 91%);
+  
+  }
+  
+.classic{
+ body {
+  text-align: center;
+
+  }
+  .heading {
+    text-align: center;
+  }
+  
